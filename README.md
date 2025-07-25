@@ -1,6 +1,6 @@
 # PROJECT 2 : Active Directory Password Expiry Notification
 
-# Password Expiry Checker
+Password Expiry Checker
 
 A PowerShell script that retrieves the password expiration date of Active Directory user accounts.
 
